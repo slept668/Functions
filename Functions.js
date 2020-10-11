@@ -19,4 +19,4 @@ var arr = [32, -1, 2048, 420, 55, 0, 13, 800, 2049];
 
 firstLetterName("Brian");
 console.log(divisbleByTwo(2048));
-console.log(largestNum(arr))
+console.log(largestNum(arr));
